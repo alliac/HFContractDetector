@@ -1,0 +1,21 @@
+/*设置不可选中*/
+.can-not-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    -ms-user-select: none;
+}
+
+.site-card-border-less-wrapper {
+    padding: -20px;
+    background: #ececec;
+}
+
+.example {
+    margin: 0px 0px 0px 0px;
+    padding: 0px;
+    text-align: center;
+    background: rgb(255, 255, 255);
+    border-radius: 0px;
+    border-color: rgb(255, 255, 255);
+}
